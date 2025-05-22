@@ -1,5 +1,5 @@
 from django.urls import path
-from api import views
+from home import views
 
 app_name = '8a'
 
